@@ -9,6 +9,6 @@
 #' @details Function for summing two numbers
 #' @examples sum2(num1=3, num2=5)
 
-sum2 <- function(num1=3, num2=4) {
+sum2 <- function(num1=3, num2=5) {
   num1 + num2
 }
