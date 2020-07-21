@@ -1,0 +1,24 @@
+{
+    "id": "3F061C4A",
+    "path": "~/R/Tutorial/vignettes/tutorial.Rmd",
+    "project_path": "vignettes/tutorial.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1595361205848.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "24,0",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595361205,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595361236668,
+    "read_only": false,
+    "read_only_alternatives": []
+}
